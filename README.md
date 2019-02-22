@@ -12,4 +12,4 @@ Given was a Mockup, that was to be rebuild. If time and mood, the design could b
 
 ## Contributing
 
-Contribution goes to the videos of Udacity´s Nanodegree project, then the Review of my project. All photos are my own property. The further descriptions of the frog species are linked to Wikipedia and the recipe is from [Emilie](https://www.findingzest.com/frog-pond-cookie-cups/);.
+Contribution goes to the videos of Udacity´s Nanodegree project, then the Review of my project. All photos are my own property. The further descriptions of the frog species are linked to Wikipedia and the recipe is from [Emilie](https://www.findingzest.com/frog-pond-cookie-cups/).
